@@ -274,7 +274,7 @@ reports/figures/
 
 Làm sạch và chuẩn hóa toàn bộ dữ liệu văn bản.
 
-**Thành viên phụ trách:** Nhật Tiến
+**Thành viên phụ trách:** Nhật Tiến, Quang Phong
 
 ## 📂 Làm việc trên
 
@@ -346,7 +346,7 @@ data/interim/clean_reviews.csv
 
 Biến dữ liệu văn bản thành vector số phục vụ huấn luyện mô hình.
 
-**Thành viên phụ trách:** Hưng Trương
+**Thành viên phụ trách:** Hưng Trương, Quang Phong
 
 ## 📂 Làm việc trên
 
